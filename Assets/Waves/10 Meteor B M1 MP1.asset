@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c0488e6a20e4e745a41325466f4e045, type: 3}
+  m_Name: 10 Meteor B M1 MP1
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 2036052886405713292, guid: 9073ed12919a0354e87f72f217b153a6,
+    type: 3}
+  pathPrefab: {fileID: 4545661555923023951, guid: ae1953c86ea5603428f87b28d724394c,
+    type: 3}
+  timeBetweenSpawns: 1
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 1
+  moveSpeed: 3
